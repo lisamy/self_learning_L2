@@ -1,0 +1,7 @@
+"Probability P(X=x, Y=y)",Economic Condition,Corporate Bond Fund (x),Common Stock Fund (y),x^2,y^2,xy
+0.01,Extreme Recession,-200,-999,40000,998001,199800
+0.09,Recession,-70,-300,4900,90000,21000
+0.15,Stagnation,30,-100,900,10000,-3000
+0.35,Slow growth,80,100,6400,10000,8000
+0.30,Moderate growth,100,150,10000,22500,15000
+0.10,High growth,120,350,14400,122500,42000
